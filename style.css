@@ -1,0 +1,50 @@
+header h1{
+    text-align: center;
+    color: #F50000;
+}
+
+header{
+    background: #E4E05C;
+    padding: 10px;
+}
+
+main img{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+main h1{
+    color:#F50000;
+    background-color: #E4E05C;
+    border: 3px solid #F50000;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+}
+main{
+    background-color:beige;
+}
+
+select{
+    background-color: #E4E05C;
+    border: 3px solid #F50000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color:#F50000;
+}
+
+.lol{
+    background-color: gold;
+    border: 3px solid green;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color:green;
+}
+
+
+
+
+
